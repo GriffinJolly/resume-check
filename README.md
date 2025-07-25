@@ -20,7 +20,7 @@ pip
 Setup Instructions
 
 Clone the repository:
-bashgit clone https://github.com/yourusername/ai-resume-suggestor.git
+bashgit clone https://github.com/GriffinJolly/ai-resume-suggestor.git
 cd ai-resume-suggestor
 
 Create and activate a virtual environment:
